@@ -14,16 +14,22 @@ To write a program to implement the SVM For Spam Mail Detection.
 4. 
 
 ## Program:
-```
+![image](https://github.com/user-attachments/assets/e515ede9-30ef-4c83-b46d-118116b78cf2)
+
+
+
+
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: PUGAZH .A
+RegisterNumber:  24000166
 */
-```
+
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![image](https://github.com/user-attachments/assets/7d316425-6b21-46ec-b145-5bce7fcd33af)
+![image](https://github.com/user-attachments/assets/053d06ef-7022-4f36-beec-45fc43ddc0b4)
+
 
 
 ## Result:
